@@ -74,6 +74,7 @@ public class Arena {
             }
         }
 
+        // mensagens de saída do vencedor/perdedor
         System.out.println("-------------");
         System.out.println("O Rapper vencedor é: " + rappers[posicaoMaiorNota].nomeRapper);
         System.out.println("O Rapper perdedor é: " + rappers[posicaoMenorNota].nomeRapper);
