@@ -15,7 +15,7 @@ public class Main {
             System.out.println("-----------------------------");
             System.out.println("\t1 - Cadastrar");
             System.out.println("\t2 - Listar");
-            System.out.println("\t3 - Listar em ordem crescente do preço");
+            System.out.println("\t3 - Listar em ordem crescente da média");
             System.out.println("\t4 - Quantidade de alunos por curso");
             System.out.println("\t5 - Sair");
             int opcao = sc.nextInt();
